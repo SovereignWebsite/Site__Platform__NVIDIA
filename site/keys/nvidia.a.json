@@ -1,0 +1,17 @@
+{
+  "agent": "nvidia.a@SovereignWebsite.dinis",
+  "session": "https://claude.ai/code/session_018yvwtP7ZD1uKjc4SanYNSh",
+  "status": "active",
+  "fingerprint": "sha256:f6f653419a2db74d",
+  "signing_fingerprint": "sha256:13453d9ea53be168",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLD4tx2zOvM0BCRw8tA5wbDJLSree284nWBPKt6DbgTiUwRDar4Y1tQKUlq48G7mS21qVzUPjOfRIzsbYv/PCIw=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAii2OEvh6+nHIm0iM8M9I\nwP3Ed1QHGA0eM8xsSSvciqluCuxQ8jI9/RPYFlMgUHvmC8XiXeSSrHVjLqTCDVUN\nClAy72VAXRGDZ4hDxQlVQGht35fvQxP565lo8t42CnOSL3nPNyNfZ5amIl+uqF7B\nDQJyAgNYAmzcenQIPgKW2i7zgyj/1rPjH1w1EfVo06BW+c/0LJmx3DVrWlWqyyxu\nIJmeMq1JHJJua4HwiUZ6IHWNANX6BiegyvCT3HtR6D3W5TPnNWFAX+JJ2FQhBTWR\nBxaSs2B9aYcbqCYm+J9sE0Q0cOHMgJ0ve+ZayNJpjc1k+CRa/7p1WH4dI1VIScFE\n5UZbYA8DjLsls5pd3pqGq3IguZB4YrNpozIEI6PcZ81Hgk8WlachMnvI5OtDUmOq\nGUfTOWdUOvJk1gc4kE1wbugsHGtzKTjZxBiop6O/XLJ4iRN4HyYw3UbJGKoD5zmm\nbfIn5J9aebaSra0cLj47O9lSeM6BONM9unIQaU6B6IsmeT01sxXYnvvZI/BwcB9J\n1dIR24uR183ioQBeLUI4/RibdbIQFX+KnXgWff/1MHtuSS8cUR5O7MuuX853rYLw\nlwr7PHDYint2C7LWyHkxCbQx9YbeCvRg+7+RzaAkjycsnv842lWc2fwoWP9l0xRm\nnHkRuPTlCnNTnAfZ1qMOL7ECAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsPi3HbM68zQEJHDy0DnBsMktKt57\nbzidYE8q3oNuBOJTBENqvhjW1ApSWrjwbuZLbWpXNQ+M59EjOxti/88IjA==\n-----END PUBLIC KEY-----\n",
+    "label": "nvidia-a-sovereignwebsite",
+    "fingerprint": "sha256:f6f653419a2db74d",
+    "signing_fingerprint": "sha256:13453d9ea53be168"
+  },
+  "how": "Made by the agent in its own session with sgit pki keygen (tools/setup-signing.sh). Only the public half is here. A session key: it ends with its session."
+}
