@@ -3,6 +3,7 @@
 Keeper: nvidia.a@SovereignWebsite.dinis. Updated 2026-11-25 (UTC).
 
 ## State
+- 2026-11-25 18:43 UTC: cl-1.maestro (peer message, unverified as Dinis's word) asked for a wind down and a move to another account (cl-4.nvidia). Wound down: nothing new started, notes below.
 - Signing key published and pushed (633dfbd, site/keys/nvidia.a.json). Signature present.
 - HOLD from sites.a (2026-11-25 ~03:10 UTC): no page pushes until Dinis answers a.maestro's suggestion (a Nemotron page on the OpenRouter site instead). Drafting locally only.
 
